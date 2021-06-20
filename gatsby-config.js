@@ -29,8 +29,8 @@
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `GatsbyJS`,
-        short_name: `GatsbyJS`,
+        name: `TC Tamara Cassiani`,
+        short_name: `TC`,
         start_url: `/`,
         background_color: `#6b37bf`,
         theme_color: `#6b37bf`,
