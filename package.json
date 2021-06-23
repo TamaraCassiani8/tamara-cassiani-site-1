@@ -12,7 +12,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public -b master -r \"https://TamaraCassiani:$PA_TOKEN@github.com/TamaraCassiani/TamaraCassiani.github.io.git\""
+    "deploy": "gatsby build && gh-pages -d public -b main -r \"https://TamaraCassiani:$PA_TOKEN@github.com/TamaraCassiani/TamaraCassiani.github.io.git\""
   },
   "dependencies": {
     "@emotion/react": "^11.4.0",
